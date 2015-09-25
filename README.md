@@ -1,4 +1,3 @@
-# terminal
 #My terminal commands
 
 To open File manager in kali
