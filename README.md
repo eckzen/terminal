@@ -11,6 +11,7 @@ To open File manager in kali
 na - nautilus
 
     subl na .
+    subl .              - will suffice
 
 xdg - file manager in kali linux
 
