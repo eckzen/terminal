@@ -29,6 +29,7 @@ SWitch between root and user
 
 ###Deleting FOLDERS/DIRECTORY
 
+    rm -rf <folder>
     rm -R <folder>
     rmdir <folder>      - Empty directory
 
